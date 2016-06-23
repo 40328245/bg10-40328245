@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg10.atom.xml" rel="self"></link><id>./</id><updated>2016-06-24T02:02:56+08:00</updated><entry><title>40328245 cdw11 網際 3D 正齒輪傳動模擬 (一)</title><link href="./40328245-cdw11-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-yi.html" rel="alternate"></link><updated>2016-06-24T02:02:56+08:00</updated><author><name>40328245</name></author><id>tag:,2016-06-24:./40328245-cdw11-wang-ji-3d-zheng-chi-lun-chuan-dong-mo-ni-yi.html</id><summary type="html">&lt;p&gt;cdw11 協同專案:
+&lt;/p&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;img src="http://i.imgur.com/UAartfk.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/5f21556f2348cf92203569ab" target="_new"&gt;&lt;font　face="標楷體"&gt;15齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/TlfEbNS.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6cb48622ff4a710fa88c3a26" target="_new"&gt;&lt;font　face="標楷體"&gt;20齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/asjkrvi.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/16982abac686b5dfd1fd8a2e" target="_new"&gt;&lt;font　face="標楷體"&gt;30齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/7uPaBMu.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/f709afa1c035bf0359458fbe" target="_new"&gt;&lt;font　face="標楷體"&gt;40齒齒輪&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/UW5SNjI.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/6c48a0f963ef10ad07c9540b" target="_new"&gt;&lt;font　face="標楷體"&gt;面版圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;img src="http://i.imgur.com/YPi9kY0.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;&lt;b&gt;&lt;a href="https://cad.onshape.com/documents/0103bfe3fc4acdeb4162e65c/w/ce85345ba3833c24f4cb247f/e/d59ca74c39734145e77c07fa" target="_new"&gt;&lt;font　face="標楷體"&gt;齒輪完成圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h2&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先調單位為mm，利用呼叫叫出齒輪，接著輸入齒數跟模數(必須一樣)還有齒輪直徑與內部洞的直徑，以此類推做四個之後，做一個面板，每根桿子的距離為兩兩齒輪的直徑相加/2。囓合之後會有齒輪相疊的情形，這時應該去調齒輪的角度，通常調半齒，計算式為(360/齒數/2)度。在這裡我學會了齒輪如何囓合在一起，也更了解onshape的使用。&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="40328245"></category><category term="cdw11"></category></entry><entry><title>40328245 cdw11 網際 2D 正齒輪傳動囓合繪圖</title><link href="./40328245-cdw11-wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html" rel="alternate"></link><updated>2016-06-24T02:02:56+08:00</updated><author><name>40328245</name></author><id>tag:,2016-06-24:./40328245-cdw11-wang-ji-2d-zheng-chi-lun-chuan-dong-nie-he-hui-tu.html</id><summary type="html">&lt;p&gt;cdw11 協同專案:
+&lt;/p&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://cdw11-40328245.rhcloud.com/bg10_40328245/threegears" target="_new"&gt;&lt;font　face="標楷體"&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;img src="http://i.imgur.com/KTrTd7V.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;b&gt;&lt;h2&gt;心得&lt;/h2&gt;&lt;/b&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;先在上面建立齒數以及節圓半徑，再利用角度的偏移更改spur(cx, cy, m, n, pa, theta)的theta來算出囓合的角度。在這裡我了解了數學在齒輪上的重要性，我先利用theta2跟theta3，再推算theta4與5。得到的結果再放在theta的格子上，就完成四跟五的齒輪囓合。還有畫布太小，5只能顯示一半的齒論&lt;/h3&gt;&lt;/font&gt;
+&lt;br/&gt;
+&lt;font　face="標楷體"&gt;&lt;h2&gt;自評分數:&lt;/h2&gt;&lt;/font&gt;
+&lt;font　face="標楷體"&gt;&lt;h3&gt;65分&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="40328245"></category><category term="cdw11"></category></entry><entry><title>40328245 cdw11 自行車傳動 2D 鏈條繪圖</title><link href="./40328245-cdw11-zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html" rel="alternate"></link><updated>2016-06-24T02:02:56+08:00</updated><author><name>40328245</name></author><id>tag:,2016-06-24:./40328245-cdw11-zi-xing-che-chuan-dong-2d-lian-tiao-hui-tu.html</id><summary type="html">&lt;p&gt;cdw11 協同專案:
+&lt;/p&gt;
+&lt;h1&gt;&lt;b&gt;&lt;a href="http://cdw11-40328245.rhcloud.com/bg10_40328245/eighteenthirty" target="_new"&gt;&lt;font　face="標楷體"&gt;自行車傳動 2D 鏈條繪圖&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;img src="http://i.imgur.com/L8xGu2x.png" width="100%" /&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;首先使用solvespace分析鏈條，再藉由分析所得出的數據畫出，然後再更改為可調式參數&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;65分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40328245"></category><category term="cdw11"></category></entry><entry><title>40328245 cdw11 報告</title><link href="./40328245-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-24T02:02:56+08:00</updated><author><name>40328245</name></author><id>tag:,2016-06-24:./40328245-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+
+
+&lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-ag100.rhcloud.com/static/"&gt;http://cdw11-ag100.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;分組程式: &lt;a href="http://cdw11-ag100.rhcloud.com/option"&gt;http://cdw11-ag100.rhcloud.com/option&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;fileuploadform: &lt;a href="http://cdw11-ag100.rhcloud.com/fileuploadform"&gt;http://cdw11-ag100.rhcloud.com/fileuploadform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;imageuploadform: &lt;a href="http://cdw11-ag100.rhcloud.com/imageuploadform"&gt;http://cdw11-ag100.rhcloud.com/imageuploadform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;請各組在 CDW11 下課前完成下列3個圖形的零件組合繪圖:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_4a.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_badc.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://cdw11-ag100.rhcloud.com/images/cdw11_abcd.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40328245"></category><category term="cdw11"></category></entry></feed>
