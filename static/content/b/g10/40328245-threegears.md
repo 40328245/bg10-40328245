@@ -1,4 +1,4 @@
-Title: 40328245 cdw11 網際 2D 正齒輪傳動囓合繪圖
+Title: 40328245 網際 2D 正齒輪傳動囓合繪圖
 Category: bg10
 Tags: 40328245, cdw11
 Author: 40328245

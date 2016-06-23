@@ -1,4 +1,4 @@
-Title: 40328245 cdw11 自行車傳動 2D 鏈條繪圖
+Title: 40328245 自行車傳動 2D 鏈條繪圖
 Category: bg10
 Tags: 40328245, cdw11
 Author: 40328245

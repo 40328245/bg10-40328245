@@ -25,6 +25,7 @@
 <v t="leo.20160618151226.1"><vh>@edit 40328245-eighteenthirty.md</vh></v>
 <v t="leo.20160623153331.1"><vh>@edit 40328245-threegears.md</vh></v>
 <v t="leo.20160623175430.1"><vh>@edit 40328245-3Dgears.md</vh></v>
+<v t="leo.20160624021026.1"><vh>@edit 40328245-心得.md</vh></v>
 </v>
 </v>
 </v>
